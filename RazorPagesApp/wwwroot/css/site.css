@@ -1,0 +1,28 @@
+﻿body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    height: 600px;
+}
+tr,td{
+    font-family:Gill Sans;
+    font-size:50px;
+    color:indianred;
+    margin-left:10%;
+}
+
+
+canvas {
+    padding: 0;
+    margin: 0;
+}
+
+div.btnbg {
+    position:fixed;
+    left: 0;
+    top: 0;
+}
+.table{
+    margin-top:20%;
+    border:0px;
+}
